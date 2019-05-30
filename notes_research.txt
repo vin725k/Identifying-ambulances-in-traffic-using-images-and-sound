@@ -1,0 +1,12 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134551/
+
+https://towardsdatascience.com/detecting-vehicles-using-machine-learning-and-computer-vision-e319ee149e10
+
+https://github.com/sheelabhadra/Emergency-Vehicle-Detection/tree/master/Paper-1
+
+https://acrs.org.au/files/arsrpe/RS050098.pdf
+
+https://www.researchgate.net/publication/332255419_Emergency_Vehicle_Detection_on_Heavy_Traffic_Road_from_CCTV_Footage_Using_Deep_Convolutional_Neural_Network
+
+https://www.google.co.in/search?ei=zf_vXLOLGIWUvQTu-bbIBQ&q=Classify+Emergency+Vehicles+from+Non-Emergency+Vehicles+using+deep+learning+ieee&oq=Classify+Emergency+Vehicles+from+Non-Emergency+Vehicles+using+deep+learning+ieee&gs_l=psy-ab.3...28629.29961..30260...0.0..0.664.876.2-1j5-1......0....1..gws-wiz.......0i71j35i302i39.PNe4Hc5NW78
+
